@@ -1,0 +1,12 @@
+{
+
+    "OWNER_ID": "753902695726972970",
+    "BOT_TOKEN": "OTM5MjY0NTc4MTMzNTY5NTY4.Yf2UTg.dZ1aY5THZU1JsPKySpVQtLdy60I",
+    "tenorAPI": "ZEEELJXAFQBN",
+    "DEFAULT_PREFIX": "!",
+    "mongoPass": "mongodb+srv://Harshal:<password>@harshal0bot.mk4f9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "ERROR_LOGS_CHANNEL": "876463684665364540",
+    "ALEXFLIPNOTE_API_KEY": "",
+    "YT_COOKIE": "AGDxDePSm772Rfwps-xF8dk_sIADiwKxt8U3jNpi5nbUFt9KM99FLf52IOhjZ8wa7FO6QGRyMhbRDAbak3EnP5PaiLc7ma3TBgT52OgDs1cn0Osw4YIcZHpmE20wJ6FwjEZrsqw3CDw2srzNJTjGl2s"
+
+}
